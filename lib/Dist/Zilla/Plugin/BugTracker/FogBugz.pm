@@ -1,9 +1,9 @@
 package Dist::Zilla::Plugin::BugTracker::FogBugz;
-# ABSTRACT: a very cool module
+
+# ABSTRACT: Use FogBugz as the bug tracker for your distribution
 
 use strict;
 use warnings;
-
 
 
 1;
