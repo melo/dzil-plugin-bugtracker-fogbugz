@@ -1,2 +1,3 @@
 /Dist-Zilla-Plugin-BugTracker-FogBugz-*
 .build
+.prove
